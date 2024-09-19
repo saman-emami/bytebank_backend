@@ -26,7 +26,7 @@ https://bytebank-db.netlify.app/
 * Formik (for form handling)
 
 ## Front-End Repository:
-The backend code for ByteBank resides in a separate repository for better maintainability and flexibility. You can find it here: https://github.com/saman-emami/bytebank_frontend
+The front-end code for ByteBank resides in a separate repository for better maintainability and flexibility. You can find it here: https://github.com/saman-emami/bytebank_frontend
 
 ## Contribution
 While ByteBank is primarily a personal project, I welcome any contributions and feedback. Feel free to fork the repository, suggest improvements, or report any issues you encounter. Feel free to reach out to me via email at: samanemami13@gmail.com
